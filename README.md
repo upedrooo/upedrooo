@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:contato@upedrooo.dev">
-    <img src="https://img.shields.io/badge/-contato@upedrooo.dev-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-pedrol09872@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
